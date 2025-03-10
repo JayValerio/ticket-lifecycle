@@ -23,8 +23,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Ticket Lifecycle Examples</h2>
 
 <p>
+  For these examples we will be creating 3 different tickets and closing them with the Users and Agents we created in our last 2 projects.
+</p>
+<p>
+  First, lets create some tickets to work on!
+</p>
+
+<p>
+
+
   
 </p>
