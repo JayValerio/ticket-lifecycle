@@ -62,7 +62,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Lets use our first ticket to understand what we are looking at.
 
 <p>Status: The current status of the ticket, you can click here to resolve/close the ticket.</p>
-<p>Priority: Aallos you to set the priority level of the ticket (Low, Normal, High, Emergency).</p>
+<p>Priority: Allows you to set the priority level of the ticket (Low, Normal, High, Emergency).</p>
 <p>Assigned To: This allows you to assign an Agent/Team To the ticket.</p>
 <p>SLA Plan:: Allows us to set the SLA for the Ticket.</p>
 <p>User,Email, Source: Shows who sent the ticket and how.</p>
