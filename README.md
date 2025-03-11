@@ -40,7 +40,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-  For this example we will be created 3 different tickets and we will closr them with the Users and Agents we created in our last 2 projects.
+  For this example we will create 3 different tickets and will close them using the Users and Agents we created in our last 2 projects.
 </p>
 
 <p>
@@ -51,7 +51,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 <p>
-  Once you sign in you can see the Tickets thaat have been sent through the system. Since Jorge is configured in the "Support" department, he is able to view all of the tickets because that department provides him the permission to do so.
+  Once you sign in you can see the Tickets that have been sent through the system. Since Jorge is configured in the "Support" department, he is able to view all of the tickets because that department provides him the permission to do so.
 </p>
 <p>
 
