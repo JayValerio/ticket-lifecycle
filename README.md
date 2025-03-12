@@ -67,6 +67,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>Status: The current status of the ticket, you can click here to resolve/close the ticket.</p>
 <p>Priority: Allows you to set the priority level of the ticket (Low, Normal, High, Emergency).</p>
+<p>Department: Allows us to see/set the dapartment this ticket has been assigned to.</p>
 <p>Assigned To: This allows you to assign an Agent/Team To the ticket.</p>
 <p>SLA Plan:: Allows us to set the SLA for the Ticket.</p>
 <p>User,Email, Source: Shows who sent the ticket and how.</p>
@@ -136,7 +137,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
- 
+ The last ticket is rather simple but looks important because it is coming from a Higher-up client.                        
 </p>
 
 
