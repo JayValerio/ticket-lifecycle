@@ -70,3 +70,63 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>Ticket Thread: Allows us to respond/view messages to/from the user who submitted the ticket.</p>
 <p>Tasks: Allows us to view/set tasks for the ticket.</p>
 </p>
+<p>
+
+  ![image](https://github.com/user-attachments/assets/61c7d509-0f94-4ad1-9c07-e57a2ff0ae90)
+
+  
+</p>
+
+<p>
+  Here we addressed the Ticket using our "Jorge" account, observe the changes from the initial ticket to when we started working on the ticket. Since "Jenny" is a part of the App team she is who we assigned the ticket to. Now we log in as Jenny to finish this ticket.  
+</p>
+
+<p>
+  
+  ![image](https://github.com/user-attachments/assets/f6813eab-40c3-4514-b748-0dca3988f30e)
+<p>
+  Here we simply addressed the issue with our client, notified them the issue has been resolved and then we close the ticket.
+</p>
+
+  ![image](https://github.com/user-attachments/assets/0b104b68-bd9f-4480-bb71-148bc57996c6)
+  
+</p>
+<p>
+  
+</p>
+<p>
+  
+  ![image](https://github.com/user-attachments/assets/f863356f-ec4c-436a-ba47-23e6ddf56e8d)
+
+  <p>
+    Here we have a ticket that at first seemed like it could have been a serious problem. The idea here is we asked our client to clarify "how many agents" were unable to use the system. Once we had more information and found out that the only 2 agents with this issue had not update their computers. We were able to address the ticket accordingly and have the agents update their computers to fix the issue.
+  </p>
+
+  ![image](https://github.com/user-attachments/assets/9799ec51-7f09-4b10-a9a4-2bee9daca3b6)
+
+<p>
+  Note the changes in the ticket after clarifying issue.
+</p>
+
+  ![image](https://github.com/user-attachments/assets/adf0fe87-b09b-4949-937d-4c0861e7df75)
+
+</p>
+<p>
+  Now we can close the ticket.
+</p>
+<p>
+  
+  ![image](https://github.com/user-attachments/assets/8107a024-4009-44c0-8a59-de14706abafe)
+
+</p>
+
+
+
+
+
+
+
+
+<p>
+  
+</p>
