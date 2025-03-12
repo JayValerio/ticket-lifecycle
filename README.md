@@ -53,13 +53,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
   Once you sign in you can see the Tickets that have been sent through the system. Since Jorge is configured in the "Support" department, he is able to view all of the tickets because that department provides him the permission to do so.
 </p>
+
+<h1>Ticket 1</h1>
+<br />
+<br />
 <p>
 
   ![image](https://github.com/user-attachments/assets/b293f2b6-fdf0-45a6-9f2a-385ed59dace2)
 
 </p>
 <p>
-  Lets use our first ticket to understand what we are looking at.
+  <h3>Lets use our first ticket to understand what we are looking at.</h3>
 
 <p>Status: The current status of the ticket, you can click here to resolve/close the ticket.</p>
 <p>Priority: Allows you to set the priority level of the ticket (Low, Normal, High, Emergency).</p>
@@ -91,9 +95,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   ![image](https://github.com/user-attachments/assets/0b104b68-bd9f-4480-bb71-148bc57996c6)
   
 </p>
-<p>
-  
-</p>
+<br />
+<br />
+<h1>Ticket 2</h1>
+<br />
+<br />
 <p>
   
   ![image](https://github.com/user-attachments/assets/f863356f-ec4c-436a-ba47-23e6ddf56e8d)
@@ -119,8 +125,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   ![image](https://github.com/user-attachments/assets/8107a024-4009-44c0-8a59-de14706abafe)
 
 </p>
+<br />
+<br />
+<h1>Ticket 3</h1>
+<br />
+<br />
+<p>
+  
+  ![image](https://github.com/user-attachments/assets/eca2704f-8f4f-4afe-9bfd-01ed3dab79c6)
 
-
+</p>
+<p>
+ 
+</p>
 
 
 
