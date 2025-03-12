@@ -140,11 +140,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
  The last ticket is rather simple but looks important because it is coming from a Higher-up client.                        
 </p>
 
+<p>
+  
+  ![image](https://github.com/user-attachments/assets/76c4d99c-6000-4197-9960-f7b284c0d13e)
 
-
+</p>
+<p>
+  Note the changes in the ticket. Again after asking some follow up questions we figured out that the laptop just needed a new charger. We provided that charger and resolved the ticket. Now we can close it.
+</p>
 
 
 
 <p>
   
+  ![image](https://github.com/user-attachments/assets/e412672b-c28b-4592-8460-e8b5afcfea41)
+
+</p>
+
+<p>
+  As you can see osTicket is a cost-effective, open-source ticketing system that supports multi-channel ticket creation via email, web forms, and API. It offers automation features like auto-routing, canned responses, and SLA management, improving efficiency and response times. With its customizable nature, reporting tools, and scalability, osTicket is ideal for businesses of all sizes.
 </p>
