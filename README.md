@@ -11,7 +11,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Remote Desktop
 - Internet Information Services (IIS)
 - osTicket
-- -Windows 10
+- Windows 10
 
 <h2>Ticket Lifecycle Stages</h2>
 
