@@ -11,10 +11,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Remote Desktop
 - Internet Information Services (IIS)
 - osTicket
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> Standard D2als v6 (2 vcpus, 4 GiB memory)
+- -Windows 10
 
 <h2>Ticket Lifecycle Stages</h2>
 
